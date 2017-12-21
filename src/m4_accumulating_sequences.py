@@ -224,6 +224,7 @@ def run_test_draw_shapes():
                rg.Circle(rg.Point(120, 50), 20),
                rg.Circle(rg.Point(250, 170), 130)]
 
+
     circles[0].fill_color = 'red'
     circles[1].fill_color = 'white'
     circles[2].fill_color = 'blue'
